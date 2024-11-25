@@ -1,0 +1,2 @@
+from .iforest import MultiClassesIsolationForest
+from .ocsvm import MultiClassesOneClassSVM

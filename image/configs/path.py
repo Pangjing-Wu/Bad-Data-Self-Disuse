@@ -1,0 +1,5 @@
+DATASET_DIR = './data'
+METADATA_DIR = './results/metadata'
+EMBEDDING_DIR = './results/embeddings'
+EVAL_DIR = './results/evaluations'
+PERFORMANCE_DIR  = './results/performance'
